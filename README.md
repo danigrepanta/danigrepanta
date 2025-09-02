@@ -1,10 +1,5 @@
 ## Oiii! Eu sou a Daniela Grego 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Bem-vinda+ao+meu+GitHub!;Estudante+de+Sistemas+de+Informação+@+FIAP;Sempre+aprendendo 🚀" alt="Typing SVG" />
-</p>
-
-
 ✨ Sobre mim
 
 🎓 Estudando Sistemas de Informação -FIAP.
